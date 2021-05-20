@@ -11,6 +11,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duthris)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=duthris&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=duthris&show_icons=true&theme=great-gatsby)
 
 ![Profile views](https://gpvc.arturio.dev/duthris)  
