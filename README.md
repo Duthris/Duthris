@@ -2,11 +2,9 @@
 
 ![Profile views](https://gpvc.arturio.dev/duthris)  [![Github](https://img.shields.io/github/followers/duthris?label=Followers&logo=Github)](https://github.com/duthris)
 
-### I'm a "Computer Engineering" student at "Antalya Bilim University"
-### 🌱 I’m currently learning mostly oop languages with some back-end development like Java + React, and C# + Angular.
-
-
 ## 🎓 I'm a "Computer Engineering" student at "Antalya Bilim University"
+
+### 🌱 I’m currently learning mostly oop languages with some back-end development like Java + React, and C# + Angular.
 
 - 🌱 I’m currently learning mostly oop languages with some back-end development like Java + React, and C# + Angular.
 - ⚡ Fun fact: I love watching films - series and playing computer games.
