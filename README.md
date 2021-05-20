@@ -6,6 +6,13 @@
 ### 🌱 I’m currently learning mostly oop languages with some back-end development like Java + React, and C# + Angular.
 
 
+## 🎓 I'm a "Computer Engineering" student at "Antalya Bilim University"
+
+- 🌱 I’m currently learning mostly oop languages with some back-end development like Java + React, and C# + Angular.
+- ⚡ Fun fact: I love watching films - series and playing computer games.
+- 💬 Ask me about anything
+
+
 ## :email: Find me on:
 
 <p align="center">
@@ -26,6 +33,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" height="40" style="vertical-align:top; margin:4px">
@@ -35,7 +43,12 @@
 <br />
 
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=duthris&show_icons=true&theme=great-gatsby)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duthris&theme=great-gatsby)
+## :trophy: My Github Stats:
+<div>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=duthris&count_private=true&show_icons=true&theme=great-gatsby">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=duthris&count_private=true&show_icons=true&theme=great-gatsby" />
+</a>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=duthris&hide=php&theme=great-gatsby">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=duthris&hide=php&theme=great-gatsby" />
+</a>
+</div>
