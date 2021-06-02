@@ -36,6 +36,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/javascript/javascript-original.svg" alt="angularjs" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 <br />
