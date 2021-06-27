@@ -5,8 +5,6 @@
 ## 🎓 I'm a "Computer Engineering" student at "Antalya Bilim University"
 
 ### 🌱 I’m currently learning mostly oop languages with some front-end development languages like Java + React, and C# + Angular to become a FULL STACK DEVELOPER.
-
-- 🌱 I’m currently learning mostly oop languages with some back-end development like Java + React, and C# + Angular.
 - ⚡ Fun fact: I love watching films - series and playing computer games.
 - 💬 Ask me about anything
 
