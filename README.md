@@ -45,12 +45,11 @@
 
 ## :trophy: My Github Stats:
 <div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=duthris&count_private=true&show_icons=true&theme=great-gatsby">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=duthris&count_private=true&show_icons=true&theme=great-gatsby" />
-</a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=duthris&hide=php&theme=great-gatsby">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=duthris&hide=php&theme=great-gatsby" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=duthris&theme=great-gatsby" >
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duthris&layout=great-gatsby" >
 </div>
 
 
