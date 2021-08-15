@@ -46,9 +46,9 @@
 ## :trophy: My Github Stats:
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=duthris&theme=great-gatsby" >
+</div>
 
-
-
+<div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duthris&layout=great-gatsby" >
 </div>
 
