@@ -51,6 +51,6 @@
 </div>
 
 
-<p align="center"> ![snake gif](https://github.com/duthris/duthris/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/duthris/duthris/blob/output/github-contribution-grid-snake.svg)
 
 
