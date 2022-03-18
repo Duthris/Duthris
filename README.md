@@ -13,6 +13,7 @@
 ## :email: Find me on:
 
 <p align="center">
+   <a href="https://discord.com/users/327431325147463681"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
   <a href="https://github.com/duthris/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="https://www.linkedin.com/in/duthris/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:cxg2520@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
