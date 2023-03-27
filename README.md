@@ -71,10 +71,10 @@
 
 ## :trophy: My Github Stats:
 <div>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=duthris&theme=great-gatsby" >
+<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=duthris&theme=great-gatsby" >
   </div>
   <div>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duthris&theme=great-gatsby" >
+<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=duthris&theme=great-gatsby" >
 </div>
 
 
