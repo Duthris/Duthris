@@ -2,7 +2,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/duthris)  [![Github](https://img.shields.io/github/followers/duthris?label=Followers&logo=Github)](https://github.com/duthris)
 
-## 🎓 I'm a "Computer Engineering" student at "Antalya Bilim University"
+## 🎓 I hold a Bachelor's degree in Computer Engineering"
 
 ### 🌱 My main aim is to become a FULL STACK DEVELOPER. 
 ### 🤖 Also I'm Discord Bot Developer since most of my day spent on discord and bots are nice to make our lives easier 
