@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Anıl YALIMDEMİR, but you can call me Duthris
 
-![Profile views](https://gpvc.arturio.dev/duthris)  [![Github](https://img.shields.io/github/followers/duthris?label=Followers&logo=Github)](https://github.com/duthris)
+[![Github](https://img.shields.io/github/followers/duthris?label=Followers&logo=Github)](https://github.com/duthris)
 
 ## 🎓 I hold a Bachelor's degree in Computer Engineering"
 
