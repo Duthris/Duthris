@@ -34,11 +34,6 @@ Most of my day happens on Discord, so a lot of what I build starts there. I writ
   </tr>
 </table>
 
-### Now · October 2026
-
-- Taking **duthris-dpi** past its first release: more ISPs covered, faster detection.
-- Polishing **duthris-iptv**: EPG timeline, TMDB artwork, encrypted backups.
-
 ---
 
 <sub>[LinkedIn](https://www.linkedin.com/in/duthris/) · [Discord](https://discord.com/users/327431325147463681) · [Email](mailto:duthris@gmail.com) · Antalya, Türkiye (UTC+3)</sub>

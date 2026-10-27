@@ -253,7 +253,7 @@ def avatar():
 for t in THEMES:
     hero(t, "Anıl Yalımdemir")
     card(t, "dpi", "Duthris DPI", "One-click DPI bypass that finds what works.",
-         [("One click", "violet"), ("Open source", "violet"), ("331 downloads", "green")], dpi_scene)
+         [("One click", "violet"), ("Open source", "violet"), ("Auto-updates", "green")], dpi_scene)
     card(t, "iptv", "Duthris IPTV", "Local-first IPTV player. Bring your own playlist.",
          [("Local-first", "violet"), ("Plays MKV & AC-3", "violet"), ("No account", "amber")], iptv_scene)
 avatar()
