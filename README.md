@@ -23,10 +23,10 @@ Most of my day happens on Discord, so a lot of what I build starts there. I writ
       Finds a working bypass method for your ISP on its own, remembers it per network, and repairs itself from the tray.
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Duthris/duthris-iptv">
+      <a href="https://github.com/Duthris/duthris-player">
         <picture>
-          <source media="(prefers-color-scheme: light)" srcset="assets/card-iptv-light.svg">
-          <img src="assets/card-iptv-dark.svg" alt="Duthris IPTV" width="100%">
+          <source media="(prefers-color-scheme: light)" srcset="assets/card-player-light.svg">
+          <img src="assets/card-player-dark.svg" alt="Duthris Player" width="100%">
         </picture>
       </a>
       Live TV, films and series over catalogues of tens of thousands. Plays MKV and AC-3 by remuxing through a bundled FFmpeg.
